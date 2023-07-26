@@ -1,5 +1,7 @@
 # OS-Wars
 
+# Firmware
+
 # OS X
 
 good portable hardware for creative people.
