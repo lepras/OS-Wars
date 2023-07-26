@@ -6,6 +6,8 @@
 
 good portable hardware for creative people.
 
+https://asahilinux.org/
+
 otherwise - [How to Fix iMessage FaceTime iCloud on Hackintosh - Step By Step TUTORIAL 2019](https://www.youtube.com/watch?v=3xn9CpRjkf4)
 
 https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
