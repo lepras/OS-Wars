@@ -1,8 +1,8 @@
 # OS-Wars
 
-# Firmware
+## Firmware
 
-# OS X
+## OS X
 
 good portable hardware for creative people.
 
@@ -12,13 +12,13 @@ otherwise - [How to Fix iMessage FaceTime iCloud on Hackintosh - Step By Step TU
 
 https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
 
-# Windows
+## Windows
 
 just works - LTSC
 
 good for RE
 
-# Linux
+## Linux
 
 Debian - ?????
 
@@ -32,30 +32,32 @@ Gentoo - for toolchain compilation issues
 
 hacking distros - i don't see any point - just install the tools you need.
 
-# BSD
+## BSD
 
 Security (memory hardened) focused Linux (for servers)
 
-# Android
+## Android
 
 https://forum.xda-developers.com/t/info-play-integrity-api-replacement-for-safetynet.4479337/
 
-# IOS
+## IOS
 
 https://ios.cfw.guide/
 
 just works - SECURITY
 
-# Asteroid OS
+## Asteroid OS
 
 https://asteroidos.org/watches/catfish/
 
-# Switch
+## Switch
 
 https://gbatemp.net/threads/picofly-a-hwfly-switch-modchip.622701/
 
-# Embedded
+ps vita - https://vita.hacks.guide/
 
-# Jail
+## Embedded
+
+## Jail
 
 https://wololo.net/2021/04/20/nintendos-legal-action-document-against-garyopa-gives-additional-insight-into-team-xecuters-inner-workings/
