@@ -20,7 +20,7 @@ good for RE
 
 ## Linux
 
-Debian - ?????
+Debian - MX linux - most userfriendly - APT just works.
 
 Arch - AUR - very unstable
 
