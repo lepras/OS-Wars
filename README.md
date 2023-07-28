@@ -48,6 +48,8 @@ just works - SECURITY
 
 https://julio.hackyouriphone.org/
 
+https://github.com/TrungNguyen1909/qemu-t8030
+
 ## Asteroid OS
 
 https://asteroidos.org/watches/catfish/
