@@ -18,6 +18,8 @@ just works - LTSC
 
 good for RE
 
+https://github.com/Sophia-Community/SophiApp
+
 ## Linux
 
 Debian - MX linux - most userfriendly - APT just works.
