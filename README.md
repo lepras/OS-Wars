@@ -50,6 +50,8 @@ https://julio.hackyouriphone.org/
 
 https://github.com/TrungNguyen1909/qemu-t8030
 
+https://altstore.io/
+
 ## Asteroid OS
 
 https://asteroidos.org/watches/catfish/
