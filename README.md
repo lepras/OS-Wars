@@ -20,6 +20,12 @@ good for RE
 
 https://github.com/Sophia-Community/SophiApp
 
+dual boot - best
+
+otherwise gpu passthrough + cpu pinning.
+
+https://gist.github.com/paul-vd/5328d8eb2c626dff36ee143da2e85179
+
 ## Linux
 
 Debian - MX linux - most userfriendly - APT just works.
