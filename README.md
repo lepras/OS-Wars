@@ -44,6 +44,8 @@ https://forum.xda-developers.com/t/info-play-integrity-api-replacement-for-safet
 
 ## IOS
 
+https://theapplewiki.com/wiki/Up_to_Speed
+
 https://ios.cfw.guide/
 
 just works - SECURITY
