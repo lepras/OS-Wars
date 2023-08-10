@@ -1,5 +1,9 @@
 # OS-Wars
 
+## Esaentials
+
+https://ninite.com/
+
 ## Video Games
 
 https://github.com/abbodi1406/vcredist
