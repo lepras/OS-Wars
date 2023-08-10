@@ -1,5 +1,13 @@
 # OS-Wars
 
+## Video Games
+
+https://github.com/abbodi1406/vcredist
+
+[Microsoft XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) 
+
+[DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+
 ## Firmware
 
 ## OS X
