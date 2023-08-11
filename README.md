@@ -1,6 +1,6 @@
 # OS-Wars
 
-## Esaentials
+## Essentials
 
 https://ninite.com/
 
@@ -29,6 +29,8 @@ https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
 just works - LTSC
 
 good for RE
+
+[snappy driver installer](https://sourceforge.net/projects/snappy-driver-installer-origin/)
 
 https://github.com/Sophia-Community/SophiApp
 
