@@ -24,6 +24,8 @@ otherwise - [How to Fix iMessage FaceTime iCloud on Hackintosh - Step By Step TU
 
 https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
 
+https://github.com/drduh/macOS-Security-and-Privacy-Guide
+
 ## Windows
 
 just works - LTSC
