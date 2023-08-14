@@ -26,6 +26,8 @@ https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide
 
+https://www.robinwieruch.de/mac-setup-web-development/
+
 ## Windows
 
 just works - LTSC
