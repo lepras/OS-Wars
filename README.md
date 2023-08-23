@@ -1,5 +1,9 @@
 # OS-Wars
 
+## Peripherals
+
+https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology
+
 ## Essentials
 
 https://ninite.com/
