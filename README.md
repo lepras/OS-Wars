@@ -86,11 +86,15 @@ https://github.com/TrungNguyen1909/qemu-t8030
 
 https://altstore.io/
 
-## Asteroid OS
+## Smartwatch / wearable
 
 https://asteroidos.org/watches/catfish/
 
 https://codeberg.org/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
+
+https://codeberg.org/Freeyourgadget/Gadgetbridge/issues/1056
+
+Pebble -> rebble -> bipos, bangle.js
 
 ## Switch
 
