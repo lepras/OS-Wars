@@ -90,6 +90,8 @@ https://altstore.io/
 
 https://asteroidos.org/watches/catfish/
 
+https://codeberg.org/Freeyourgadget/Gadgetbridge/wiki/Amazfit-Bip-OS
+
 ## Switch
 
 https://gbatemp.net/threads/picofly-a-hwfly-switch-modchip.622701/
