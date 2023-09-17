@@ -26,6 +26,9 @@ https://ss64.com/osx/
 
 https://asahilinux.org/
 
+[I hacked macOS!!!【Lina & Cyan Nyan](https://www.youtube.com/watch?v=hDek2cp0dmI)
+
+
 otherwise - [How to Fix iMessage FaceTime iCloud on Hackintosh - Step By Step TUTORIAL 2019](https://www.youtube.com/watch?v=3xn9CpRjkf4)
 
 https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
