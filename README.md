@@ -22,6 +22,8 @@ https://github.com/abbodi1406/vcredist
 
 good portable hardware for creative people.
 
+https://ss64.com/osx/
+
 https://asahilinux.org/
 
 otherwise - [How to Fix iMessage FaceTime iCloud on Hackintosh - Step By Step TUTORIAL 2019](https://www.youtube.com/watch?v=3xn9CpRjkf4)
